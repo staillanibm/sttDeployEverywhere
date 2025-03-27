@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmCloudStreams.RestVS">
+        <servicesKeys>
+            <keyDetails collectionKey="sttDeployEverywhere.services.cloudstreams:listSalesforceAccounts" connectorServiceName="sttDeployEverywhere.services.cloudstreams:listSalesforceAccounts"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
